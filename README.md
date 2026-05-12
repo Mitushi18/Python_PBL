@@ -32,7 +32,7 @@ K-Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
 Evaluated model performance using:
 Accuracy Score
-Precision
+Precision\n
 Recall
 F1-Score
 Confusion Matrix
